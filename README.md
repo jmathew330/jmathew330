@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Jeffin! 👋</h1>
 
 ###
-
-<p align="left">I'm currently enrolled in <b>TripleTen's Software Engineering Bootcamp</b>, where I'm honing my skills to become a <b>Full Stack Developer</b>.</p>
+<b><p align="center">Welcome to my portfolio!</p></b>
+<p align="left">I'm currently enrolled in <i>TripleTen's Software Engineering Bootcamp</i>, where I'm honing my skills to become a <i>Full Stack Developer</i>.</p>
 
 ###
 
