@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently enrolled in *TripleTen's Software Engineering Bootcamp*, where I'm honing my skills to become a *Full Stack Developer*.</p>
+<p align="left">I'm currently enrolled in <b>TripleTen's Software Engineering Bootcamp</b>, where I'm honing my skills to become a <b>Full Stack Developer</b>.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Frontend: HTML, CSS, JavaScript<br>- Backend: Currently learning (aspiring to master backend technologies)<br>- Tools: Git, GitHub, VS Code</p>
+<p align="left"><li><b>Frontend:</b> HTML, CSS, JavaScript</li><li><b>Backend:</b> Currently learning (aspiring to master backend technologies)</li><li><b>Tools:</b> Git, GitHub, VS Code</li></p>
 
 ###
 
