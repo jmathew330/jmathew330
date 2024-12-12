@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently enrolled in TripleTen's Software Engineering Bootcamp, where I'm honing my skills to become a Full Stack Developer.</p>
+<p align="left">I'm currently enrolled in **TripleTen's Software Engineering Bootcamp**, where I'm honing my skills to become a **Full Stack Developer**.</p>
 
 ###
 
