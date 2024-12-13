@@ -33,10 +33,16 @@
 
 <h2 align="left">Websites I've Coded</h2>
 
-↪ [Coffee Shop](https://jmathew330.github.io/se_project_coffeeshop/)  
-**Languages Used:** HTML, CSS
+↪ [Coffee Shop](https://jmathew330.github.io/se_project_coffeeshop/)
 
-↪ [Spots](https://jmathew330.github.io/se_project_spots/)  
-**Languages Used:** HTML, CSS, JS
+**Description:** <br><br><i>A landing page utilizing CSS Flexbox for flexible layouts, HTML forms for user interaction, and CSS animations for smooth visual effects, ensuring a modern, user-friendly experience.</i>
 
-###
+**Languages Used:** <i>HTML, CSS</i>
+
+<h2></h2>
+
+↪ [Spots](https://jmathew330.github.io/se_project_spots/)
+
+**Description:** <br><br><i>A responsive image-sharing platform with features like an editable user profile and the ability to post new content, all powered by JavaScript, alongside an image gallery built using the CSS Grid property for an organized, flexible layout.</i>
+
+**Languages Used:** <i>HTML, CSS, JS</i>
