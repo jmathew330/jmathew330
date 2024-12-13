@@ -31,7 +31,10 @@
 
 <h2 align="left">Websites I've Coded:</h2>
 
-<p>↪ <a href="https://jmathew330.github.io/se_project_coffeeshop/" target="_blank">Coffee Shop</a><b><br>Languages Used:</b> HTML, CSS
-<p>↪ <a href="https://jmathew330.github.io/se_project_spots/" target="_blank">Spots</a><b><br>Languages Used:</b> HTML, CSS, JS
+↪ [Coffee Shop](https://jmathew330.github.io/se_project_coffeeshop/)  
+**Languages Used:** HTML, CSS
+
+↪ [Spots](https://jmathew330.github.io/se_project_spots/)  
+**Languages Used:** HTML, CSS, JS
 
 ###
