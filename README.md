@@ -43,6 +43,6 @@
 
 ↪ [Spots](https://jmathew330.github.io/se_project_spots/)
 
-**Description:** <br><br><i>A responsive image-sharing platform with features like an editable user profile and the ability to post new content, all powered by JavaScript, alongside an image gallery built using the CSS Grid property for an organized, flexible layout.</i>
+**Description:** <br><br><i>A responsive image-sharing platform with features like an editable user profile and upcoming content posting functionality, all powered by JavaScript, alongside an image gallery built using the CSS Grid property for an organized, flexible layout.</i>
 
 **Languages Used:** <i>HTML, CSS, JS</i>
