@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Skills & Technologies:</h2>
+<h2 align="left">Skills & Technologies</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Websites I've Coded:</h2>
+<h2 align="left">Websites I've Coded</h2>
 
 ↪ [Coffee Shop](https://jmathew330.github.io/se_project_coffeeshop/)  
 **Languages Used:** HTML, CSS
