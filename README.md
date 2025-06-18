@@ -1,48 +1,68 @@
-<h1 align="left">Hi, I'm Jeffin! 👋</h1>
+# 👋 Hi, I'm Jeffin — Aspiring Quality Assurance (QA) Engineer
 
-###
-<b><p align="center">Welcome to my portfolio!</p></b>
-<p align="left">I'm currently enrolled in <i>TripleTen's Software Engineering Bootcamp</i>, where I'm honing my skills to become a <i>Full Stack Developer</i>.</p>
+Welcome to my GitHub portfolio! I'm passionate about software quality and eager to build a career in QA automation and testing. Through hands-on projects and continuous learning, I’m developing strong skills in manual and automated testing to help deliver reliable, high-quality software.
 
-###
+---
 
-<p align="left">I'm passionate about building responsive, user-friendly web applications and continuously improving my skill set.<br><br>Feel free to check out my repositories and projects as I continue my journey in software development!</p>
+## 🎯 About Me
 
-###
+- Recently worked as a Test Data Analyst at Cognizant, supporting QA teams with test data management and environment setup.  
+- Actively learning automation testing tools and frameworks: **Selenium WebDriver**, **TestNG**, **Java**, and **Postman**.  
+- Familiar with Agile methodology and experienced in collaborating with cross-functional teams to improve software delivery.  
+- Dedicated to writing clear, maintainable tests and understanding end-to-end software workflows.
 
-<h2 align="left">Skills & Technologies</h2>
+---
 
-###
+## 🛠️ Skills & Tools
 
-<p align="left"><li><b>Frontend:</b> HTML, CSS, Figma, JavaScript <i>(currently learning)</i></li><li><b>Tools:</b> Git, VS Code</li></p><br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+| Skill                  | Level         |
+|------------------------|---------------|
+| Manual Testing         | Intermediate  |
+| Test Automation        | Beginner → Intermediate |
+| Selenium WebDriver     | Learning      |
+| TestNG                 | Learning      |
+| Java                   | Learning      |
+| SQL                    | Intermediate  |
+| API Testing (Postman)  | Beginner      |
+| Agile & Scrum          | Experienced   |
 
-###
+---
 
-<h2 align="left">Websites I've Coded</h2>
+## 🚀 Projects
 
-↪ [Coffee Shop](https://jmathew330.github.io/se_project_coffeeshop/)
+### 1. **E-Commerce Automation Testing**
+- Automated login, signup, logout, and cart functionality on a popular demo e-commerce site.  
+- Used Java, Selenium WebDriver, and TestNG to write maintainable and reusable tests.  
+- Validated critical flows like login success/failure, adding/removing items, and price calculation based on quantity.
 
-**Description:** <br><br><i>A landing page utilizing CSS Flexbox for flexible layouts, HTML forms for user interaction, and CSS animations for smooth visual effects, ensuring a modern, user-friendly experience.</i>
+### 2. **API Testing with Postman**
+- Created collections to validate RESTful API endpoints, testing various request methods and response validations.
 
-**Languages Used:** <i>HTML, CSS</i>
+### 3. **Test Data Management Support**
+- Managed and provisioned test data using complex SQL queries to ensure stable test environments.  
+- Collaborated with QA and development teams to align data with test scenarios and business logic.
 
-<h2></h2>
+---
 
-↪ [Spots](https://jmathew330.github.io/se_project_spots/)
+## 📚 Learning & Growth
 
-**Description:** <br><br><i>A responsive image-sharing platform with features like an editable user profile and upcoming content posting functionality, all powered by JavaScript, alongside an image gallery built using the CSS Grid property for an organized, flexible layout.</i>
+- Actively enhancing automation skills through personal projects and online courses.  
+- Exploring frameworks like **JUnit**, **Cucumber**, and continuous integration tools such as **Jenkins**.  
+- Open to mentorship and eager to contribute to real-world projects to gain hands-on experience.
 
-**Languages Used:** <i>HTML, CSS, JS</i>
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/jeffin-mathew](https://linkedin.com/in/jeffin-mathew)  
+- Email: jmathew330@gmail.com
+
+---
+
+## 🤝 Let's Connect!
+
+I’m excited to grow in QA and welcome any opportunities, advice, or feedback from the community. Feel free to explore my repos, open issues, or send a message!
+
+---
+
+*Thank you for visiting!*
