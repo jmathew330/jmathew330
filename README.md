@@ -18,12 +18,12 @@ Welcome to my GitHub portfolio! I'm passionate about software quality and eager 
 | Skill                  | Level         |
 |------------------------|---------------|
 | Manual Testing         | Intermediate  |
-| Test Automation        | Beginner → Intermediate |
-| Selenium WebDriver     | Learning      |
-| TestNG                 | Learning      |
-| Java                   | Learning      |
+| Test Automation        | Intermediate  |
+| Selenium WebDriver     | Intermediate  |
+| TestNG                 | Intermediate  |
+| Java                   | Intermediate  |
 | SQL                    | Intermediate  |
-| API Testing (Postman)  | Beginner      |
+| API Testing (Postman)  | Intermediate  |
 | Agile & Scrum          | Experienced   |
 
 ---
