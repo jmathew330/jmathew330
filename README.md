@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jeffin — Aspiring Quality Assurance (QA) Engineer
+# 👋 Hi, I'm Jeffin!
 
-Welcome to my GitHub portfolio! I'm passionate about software quality and eager to build a career in QA automation and testing. Through hands-on projects and continuous learning, I’m developing strong skills in manual and automated testing to help deliver reliable, high-quality software.
+Welcome to my GitHub portfolio! I'm passionate about software quality and eager to advance my career in QA automation and testing. Through hands-on projects and continuous learning, I’m developing strong skills in manual and automated testing to help deliver reliable, high-quality software.
 
 ---
 
