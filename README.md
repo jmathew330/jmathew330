@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I'm passionate about software quality and eager 
 ## 🎯 About Me
 
 - Recently worked as a Test Data Analyst at Cognizant, supporting QA teams with test data management and environment setup.  
-- Actively learning automation testing tools and frameworks: **Selenium WebDriver**, **TestNG**, **Java**, and **Postman**.  
+- Experienced using web automation / API testing tools and frameworks: **Selenium WebDriver**, **TestNG**, **Java**, and **Postman**.  
 - Familiar with Agile methodology and experienced in collaborating with cross-functional teams to improve software delivery.  
 - Dedicated to writing clear, maintainable tests and understanding end-to-end software workflows.
 
