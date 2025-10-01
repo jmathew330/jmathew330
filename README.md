@@ -24,6 +24,7 @@ Welcome to my GitHub portfolio! I'm passionate about software quality and eager 
 | Java                   | Intermediate  |
 | SQL                    | Intermediate  |
 | API Testing (Postman)  | Intermediate  |
+| CI/CD (Jenkins/GA)     | Intermediate  |
 | Agile & Scrum          | Experienced   |
 
 ---
