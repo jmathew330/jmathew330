@@ -32,16 +32,22 @@ Welcome to my GitHub portfolio! I'm passionate about software quality and eager 
 ## 🚀 Projects
 
 ### 1. **E-Commerce Automation Testing**
-- Automated login, signup, logout, and cart functionality on a popular demo e-commerce site.  
-- Used Java, Selenium WebDriver, and TestNG to write maintainable and reusable tests.  
-- Validated critical flows like login success/failure, adding/removing items, and price calculation based on quantity.
+- Developed and maintained a Selenium-based test suite for an e-commerce demo application using TestNG and the Page Object Model (POM) to create scalable and maintainable test scripts
 
+- Automated critical user journeys across key modules such as homepage, registration, login, and shopping cart, validating form inputs, error messages, DOM elements, and user flows for both positive and negative scenarios
+
+- Integrated ExtentReports to generate detailed HTML test reports with step-level logs, enhancing visibility and debugging
+
+- Configured CI/CD pipelines with Jenkins to automate Maven builds, test execution, and report delivery upon GitHub commits
+  
 ### 2. **API Testing with Postman**
-- Created collections to validate RESTful API endpoints, testing various request methods and response validations.
+- Achieved full functional test coverage of RESTful endpoints using Postman and Newman, validating CRUD operations, input validation, authentication flows, and error handling
 
-### 3. **Test Data Management Support**
-- Managed and provisioned test data using complex SQL queries to ensure stable test environments.  
-- Collaborated with QA and development teams to align data with test scenarios and business logic.
+- Verified status codes, response times, required fields, data types, non-null values, and JSON schema compliance to ensure robust API behavior and detect defects early
+
+- Designed negative test cases for invalid inputs, missing fields, and unauthorized access, ensuring data integrity by asserting payload consistency and verifying authorization controls and unique identifiers
+
+- Integrated GitHub Actions to automate test execution on code commits and generate analytical HTML test reports
 
 ---
 
